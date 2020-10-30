@@ -128,6 +128,17 @@ table {
   border-spacing: 0;
 }
 
+html {
+  font-family: "Roboto Mono", monospace;
+  font-size: 62.5%;
+}
+
+.links {
+  color: white;
+  text-decoration: none;
+  border: ;
+}
+
 .plan {
   background-color: #ff764e;
 }
@@ -138,4 +149,21 @@ table {
 
 .involved {
   background-color: #ffcd69;
+}
+
+.hero {
+  display: block;
+}
+
+.title {
+  font-family: "Chelsea Market", cursive;
+}
+
+.hero-img {
+  display: inline-block;
+  border-radius: 20px;
+}
+
+.hero-text {
+  text-align: center;
 }
